@@ -67,3 +67,4 @@ This scripts mints the NFTs to your wallet address.
 
 ## Video Walkthrough
 https://www.loom.com/share/0e6123182e574b0caad5ce6e2b508421?sid=e62eaac1-5711-44db-8d2b-42c2873c92e1
+https://www.loom.com/share/13f3885fce7c43d7bc4cf43db5fe25f1?sid=91bacd14-d737-4531-8342-3c4f76c4c561
